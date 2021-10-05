@@ -1,0 +1,66 @@
+.logo{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.title1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    margin: 50px;
+    color: black;
+}
+.title2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bolder;
+    text-align: center;
+    margin: 50px;
+    color: black;
+}
+#siging-area{}
+.siging-area .siging{
+    font-size: medium;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.siging-area .button{
+    border-radius: 3px;
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: goldenrod;
+    font-weight: bolder;
+}
+.siging-area .input{
+    border-radius: 3px;
+    width: 200px;
+    height: 33px;
+    box-shadow: none;
+}
+#menu-area
+.menu-area .menu{
+    font-size: medium;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.menu-area .itens{
+    border-radius: 3px;
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+}
